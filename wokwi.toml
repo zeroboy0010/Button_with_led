@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "Debug/button_with_led.elf"
+firmware = "Debug/button_with_led.bin"
